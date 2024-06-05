@@ -1,2 +1,2 @@
 # CBTCIP
-For Intership Project in CipherByte Technologies
+For Internship Project in CipherByte Technologies
